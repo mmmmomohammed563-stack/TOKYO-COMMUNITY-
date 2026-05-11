@@ -549,4 +549,3 @@ return colors[Math.floor(Math.random() * colors.length)];
 
 export default botConfig;
 
-ما هو الخطا
