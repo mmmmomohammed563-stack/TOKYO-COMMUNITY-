@@ -1,4 +1,5 @@
-
+import DBD from 'discord-dashboard';
+import SoftUI from 'dbd-soft-ui';
 import { logger } from '../utils/logger.js';
 export const botConfig = {
   // =========================
@@ -501,4 +502,4 @@ export function startDashboard(client) {
     ]
   });
   Dashboard.init();
-    }
+}
