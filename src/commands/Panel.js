@@ -18,7 +18,7 @@ module.exports = {
 
 اضغط على الأزرار بالأسفل للتعرف على السيرفر أكثر.
       `)
-      .setImage("حط_رابط_الصورة_هنا")
+      .setImage("https://cdn.discordapp.com/attachments/1493320568660033590/1507819135646830672/tokyo.png?ex=6a13497f&is=6a11f7ff&hm=3eebc415ba15b39c2edf76d5fc7213ceae47a2ccae54af4a6ac141b185337d7d&")
       .setThumbnail(message.guild.iconURL())
       .setFooter({
         text: "TOKYO COMMUNITY"
